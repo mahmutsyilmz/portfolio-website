@@ -174,7 +174,7 @@ const Contact = () => {
                 </svg>
               </a>
               <a 
-                href="https://www.linkedin.com/in/mahmut-sami-yilmaz/" 
+                href="https://www.linkedin.com/in/mahmutsamiyilmaz/" 
                 target="_blank" 
                 rel="noopener noreferrer" 
                 className="text-blue-600 dark:text-blue-400 hover:text-blue-700 dark:hover:text-blue-300"
