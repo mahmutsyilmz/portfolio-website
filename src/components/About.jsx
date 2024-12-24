@@ -36,7 +36,7 @@ const About = () => {
 
   const handleDownloadCV = () => {
     const link = document.createElement('a');
-    link.href = '/images/cv_mahmut .pdf';
+    link.href = '/portfolio-website/images/cv_mahmut.pdf';
     link.download = 'Mahmut_Sami_Yilmaz_CV.pdf';
     document.body.appendChild(link);
     link.click();
@@ -112,7 +112,7 @@ const About = () => {
                   className="absolute inset-8 rounded-full overflow-hidden bg-gradient-to-br from-blue-500/5 to-blue-600/5 shadow-2xl"
                 >
                   <img 
-                    src="/images/image.jpeg" 
+                    src="/portfolio-website/images/image.jpeg" 
                     alt="Mahmut Sami Yılmaz" 
                     className="w-full h-full object-cover"
                   />
